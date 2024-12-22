@@ -1,7 +1,7 @@
 # VLSI-internship lab-1
 ***
 # lab-1 
-  This lab session helped me to learn how to create and sucessfully run a 'c' programm.
+  This lab session helped me to learn how to create and sucessfully run a 'c' program.
 ***
 *STEP1*
 ![Screenshot 2024-12-22 191326](https://github.com/user-attachments/assets/38cbc3f7-deff-4e0d-89ce-c2ec90feae86)
