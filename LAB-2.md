@@ -7,6 +7,7 @@ This lab session helped me to learn and understand spike simulation.
 *Step2*
 ![Screenshot 2024-12-27 095640](https://github.com/user-attachments/assets/464d70b1-7fb5-4c7c-92a0-a089903d92e4)
 ***
+
 *Step3*
 ![Screenshot 2024-12-27 100146](https://github.com/user-attachments/assets/5b902809-420e-44b9-ac98-3fdbbd1cf1a5)
 ***
