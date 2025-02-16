@@ -1,6 +1,7 @@
 # Introdcution
-Vsd squdron mini provided me with an opportunity to learn and gain experience in building programs,circuits and chip designs.
+Vsd squadron mini provided me with an opportunity to learn and gain experience in building programs,circuits and chip designs.
 Using, this opportunity I build an auotmatic L.P.G gas detector using vsd-squadron and  minimal components for cheap and reliable usasge in every home.
+***
 ![Screenshot 2025-02-16 110658](https://github.com/user-attachments/assets/1cd01742-b3ea-4c8a-a0c7-7d5026c6c6c9)
 ***
 # Circuit diagram:
@@ -19,3 +20,5 @@ Using, this opportunity I build an auotmatic L.P.G gas detector using vsd-squadr
 *** 
 # Conclusion:
    I would like to thank Kunal sir and the whole VSLI and SAMSUNG team for giving me this opportunity to build this wondurl circuit using VSD-sqaudron mini.
+***
+# Thankyou for viewing 😊.
