@@ -7,7 +7,9 @@ Using, this opportunity I build an auotmatic L.P.G gas detector using vsd-squadr
 # Circuit diagram:
 ![Screenshot 2025-02-16 112819](https://github.com/user-attachments/assets/85141fab-7af2-468b-83c7-f668f36ddbbe)
 ***
+
 # code used:
+~~~
 bool GAS_VAL = LOW;
 #define BUZZER_PIN1 PD3  
 #define BUZZER_PIN2 PD4 
@@ -33,6 +35,7 @@ void loop() {
   }
   delay(10); 
 }
+```
 ***
 # Pins used:
 1) Taking 5 V pin as common vcc.
